@@ -56,3 +56,8 @@ This application is licensed under the MIT License. See the [LICENSE](LICENSE) f
     &nbsp;&nbsp;
     <img src="./docs/img/addnote_page.png" alt="addnote_page" width="250">
 </p>
+
+## Update About Page
+<p float="left">
+    <img src="./docs/img/about_page.png" alt="About Page" width="250">
+</p>
